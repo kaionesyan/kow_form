@@ -1,8 +1,7 @@
 name: kow_form
 description: Create easy serializable forms with Kow Form.
 version: 0.0.1
-author: kaionesyan
-repository: 
+repository: https://github.com/kaionesyan/kow_form
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
