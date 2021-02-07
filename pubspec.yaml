@@ -1,0 +1,15 @@
+name: kow_form
+description: Create easy serializable forms with Kow Form.
+version: 0.0.1
+author: kaionesyan
+repository: 
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^4.3.3
