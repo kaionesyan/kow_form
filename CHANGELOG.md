@@ -1,3 +1,7 @@
+# 0.0.1+2
+
+- example project added
+
 # 0.0.1+1
 
 - `pubspec.yaml` description updated

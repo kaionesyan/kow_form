@@ -1,6 +1,6 @@
 name: kow_form
 description: Create easy serializable forms with KowForm by inserting KowInputs beneath KowForm in the widget tree. Use KowSubmitButton to submit your form's data.
-version: 0.0.1+1
+version: 0.0.1+2
 repository: https://github.com/kaionesyan/kow_form
 
 environment:
