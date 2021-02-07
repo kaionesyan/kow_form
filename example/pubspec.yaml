@@ -1,0 +1,18 @@
+name: kow_form_example
+description: Demonstrates how to use KowForm.
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  kow_form:
+    path: ../
+  flutter:
+    sdk: flutter
+
+dependency_overrides:
+  kow_form:
+    path: ../
+
+flutter:
+  uses-material-design: true
